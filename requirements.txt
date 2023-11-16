@@ -11,3 +11,6 @@ streamlit==1.28.0
 watchdog==3.0.0
 pydub==0.25.1
 
+how to run code 
+
+streamlit run main.py
