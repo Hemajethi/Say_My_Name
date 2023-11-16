@@ -12,5 +12,6 @@ watchdog==3.0.0
 pydub==0.25.1
 
 how to run code 
+Execute the command in the terminal.
 
-streamlit run main.py
+"streamlit run main.py"
